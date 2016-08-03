@@ -4,12 +4,13 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTestProject1
 {
     [TestClass]
-    public class UnitTest1
+    public class DemoTestcase
     {
         [TestMethod]
-        public void TestMethod1()
+        public void Member1_TestMethod1()
         {
             Console.WriteLine("ngan");
         }
     }
 }
+  
